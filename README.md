@@ -52,7 +52,7 @@ The test dataset used by the Streamlit application is provided as:
 ## 3. GitHub Repository Link
 
 **GitHub Repository:**
-[ADD YOUR GITHUB REPOSITORY LINK HERE]
+https://github.com/2025ac05728-afk/credit-card-default
 
 The repository contains the complete source code, trained model files, requirements file, test dataset, and this README file.
 
