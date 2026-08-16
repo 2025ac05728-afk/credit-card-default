@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+Python-3.11.16.tar.xz
+python-3.11.9-amd64.exe
+*.log
