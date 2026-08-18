@@ -105,9 +105,9 @@ The models were evaluated using the following metrics:
 
 **Overall Winner: Logistic Regression**
 
-Logistic Regression achieved the highest accuracy, precision, and MCC among the evaluated models. It also performed competitively in terms of AUC and F1 score. Therefore, considering the overall balance of the evaluation metrics, Logistic Regression is selected as the overall winner for this dataset.
+Logistic Regression achieved the highest accuracy (0.8170), precision (0.6676), and MCC (0.3856) among the evaluated models. It also achieved competitive AUC and F1 scores. Therefore, considering the overall balance of the evaluation metrics, Logistic Regression is selected as the overall winner for this dataset.
 
-However, the choice of model can depend on the application objective. If identifying as many actual default cases as possible is the primary objective, **Naive Bayes** is preferable because it achieved the highest recall and F1 score. If ranking and distinguishing between default and non-default customers is the main objective, **Random Forest** is attractive because it achieved the highest AUC.
+However, model selection depends on the application objective. Naive Bayes is preferable when minimizing missed default cases is the priority because it achieved the highest recall (0.5780) and F1 score (0.4966). Random Forest is attractive when discrimination/ranking performance is important because it achieved the highest AUC (0.7574).
 
 ---
 
