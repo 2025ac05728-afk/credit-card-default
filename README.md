@@ -13,6 +13,8 @@ An interactive Streamlit web application has also been developed to allow a user
 ## 2. Dataset Description
 
 The dataset used in this project is the **Credit Card Default Dataset**, obtained from a public dataset repository.
+Dataset Source: Kaggle - credit-card-default 
+https://www.kaggle.com/datasets/ifeanyichukwunwobodo/credit-card-default
 
 The dataset contains **30,000 customer records** and **23 predictor features** after removing the original index column. The target variable is:
 
@@ -112,8 +114,6 @@ However, model selection depends on the application objective. Naive Bayes is pr
 ---
 
 ## 6. Streamlit Application
-**Live Streamlit App:**
- https://credit-card-default-43rklgguvxc94kkadd2cek.streamlit.app/
  
 The project includes an interactive Streamlit web application.
 
@@ -205,7 +205,7 @@ The exact package requirements are provided in `requirements.txt`.
 ## 9. Live Streamlit Application
 
 **Live Streamlit App:**
-[ADD YOUR STREAMLIT COMMUNITY CLOUD LINK HERE]
+https://credit-card-default-43rklgguvxc94kkadd2cek.streamlit.app/
 
 The deployed application provides an interactive frontend where the user can upload the test CSV file, select a classification model, and view the model's evaluation metrics and classification results.
 
